@@ -1,0 +1,7 @@
+ <ul class="nav navbar-nav">
+		            <li><a class="active" href="#">公司首页</a></li>
+		            <li><a href="#">公司商品</a></li>
+		            <li><a href="#">公司简介</a></li>
+		            <li><a href="#">公司理念</a></li>
+		            <li><a href="#">公司文化</a></li>
+		        </ul>
